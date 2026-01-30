@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "my-doh-proxyy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1687f80a-8fda-485d-8f81-2074f3b8c150",
+			"database_name": "d1-template-databasee"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
